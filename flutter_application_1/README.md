@@ -18,4 +18,4 @@ samples, guidance on mobile development, and a full API reference.
 
 
 
-<https://github.com/LuisaFernandaPerez/Carrito-de-Compras/blob/main/flutter_application_1/Demo%20Carrito.gif>
+<img src= "https://github.com/LuisaFernandaPerez/Carrito-de-Compras/blob/main/flutter_application_1/Demo%20Carrito.gif">
